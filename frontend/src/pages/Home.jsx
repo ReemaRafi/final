@@ -14,8 +14,8 @@ alt="Task Management"
         />
 
         {/* Heading & Text */}
-        <h1 className="text-4xl font-extrabold text-indigo-400">Simplify Your Tasks</h1>
-        <p className="text-lg text-gray-300">Organize, manage, and track your daily tasks with ease.</p>
+        <h1 className="text-4xl font-extrabold text-indigo-400">Simplify Your Review</h1>
+        <p className="text-lg text-gray-300">Organize, manage, and track Review.</p>
 
         {/* Buttons */}
         <div className="flex justify-center gap-4">
@@ -36,3 +36,6 @@ alt="Task Management"
     </div>
   );
 }
+
+
+

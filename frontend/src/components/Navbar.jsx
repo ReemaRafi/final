@@ -14,7 +14,7 @@ export default function Navbar() {
     <nav className="border-b border-zinc-800 bg-zinc-900/70 backdrop-blur-md sticky top-0 z-50 shadow-md">
       <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
         <Link to="/" className="text-white font-bold text-xl tracking-wide hover:text-indigo-400 transition">
-          TaskManager
+    🧕 Hijab Styles Gallery with Reviews
         </Link>
 
         <div className="flex items-center gap-3">
